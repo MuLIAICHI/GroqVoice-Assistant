@@ -39,6 +39,6 @@ To run the application, execute the following command in your terminal:
 [Mozilla Public License 2.0](LICENSE)
 
 ## Contributors
-- [LIAICHI MUSTAPHA]([MuLIAICHI](https://github.com/MuLIAICHI))
+- [LIAICHI MUSTAPHA](MuLIAICHI](https://github.com/MuLIAICHI))
 
 Feel free to contribute to this project by submitting issues or creating pull requests.
