@@ -36,9 +36,9 @@ To run the application, execute the following command in your terminal:
    ```
 
 ## License
-[MIT License](LICENSE)
+[Mozilla Public License 2.0](LICENSE)
 
 ## Contributors
-- [Your Name](your-github-profile-link)
+- [LIAICHI MUSTAPHA](MuLIAICHI)
 
 Feel free to contribute to this project by submitting issues or creating pull requests.
