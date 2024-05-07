@@ -12,7 +12,7 @@ This project implements a talking assistant that utilizes advanced AI capabiliti
 - **Python**: The core programming language used for the backend processing.
 
 ## Files Description
-- `app_s.py`: Main application file that initializes the Streamlit interface, handles speech-to-text functionality, integrates Groq AI for processing user input, and utilizes the text-to-speech capabilities of Deepgram.
+- `app.py`: Main application file that initializes the Streamlit interface, handles speech-to-text functionality, integrates Groq AI for processing user input, and utilizes the text-to-speech capabilities of Deepgram.
 - `groq_ai.py`: Defines the `generate_response` function which interacts with the Groq API to convert user speech input into text and process it through an AI model to generate a response.
 - `TTS.py`: Handles the text-to-speech conversion using Deepgram's API, turning the AI-generated text responses into audible speech.
 
